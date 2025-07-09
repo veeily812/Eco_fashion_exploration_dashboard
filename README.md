@@ -1,6 +1,5 @@
 # 🧵 Final_susfashion: Sustainable Fashion Analytics with Power BI
-Web link: <iframe title="Final_susfashion" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzE4Y2UzZmMtN2VkOC00OTZmLWFkNmItM2VlZjU5N2UxNDdlIiwidCI6IjVlMTU4ZTJhLTA1OTYtNGE2Yy04ODAxLTM1MDJhZWY0NTYzZiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-
+Web link: https://app.powerbi.com/view?r=eyJrIjoiNzE4Y2UzZmMtN2VkOC00OTZmLWFkNmItM2VlZjU5N2UxNDdlIiwidCI6IjVlMTU4ZTJhLTA1OTYtNGE2Yy04ODAxLTM1MDJhZWY0NTYzZiIsImMiOjEwfQ%3D%3D
 ## 📄 Summary
 
 This Power BI report provides a comprehensive analysis of global fashion brands by clustering them based on environmental friendliness and sustainable material usage. It evaluates over **3,996 brands across 10 countries**, examining critical sustainability metrics such as carbon footprint, water usage, waste generation, and adoption of certified sustainable materials. The dashboard offers actionable insights into which brands and materials are leading or lagging in sustainability efforts.
